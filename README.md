@@ -1,0 +1,2 @@
+# tindog
+"Looking for a furry companion to share my adventures and belly rubs with! 🐾 Swipe right if you love long walks in the park, fetch sessions, and cozy cuddles. I'm a tail-wagging, tennis ball enthusiast who's always up for a good time. Bonus points if you enjoy doggy treats as much as I do! Let's sniff out the world together and create pawsome memories. Bark at me, and let's get this tail-wagging romance started! 🐶💕 #DoggyDating #PawfectMatch #TinderForDogs"
