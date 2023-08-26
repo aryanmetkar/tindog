@@ -45,7 +45,7 @@ nav-link {
     margin: 5% 3% 5% 0%;
 }
 
-@media(min-width:1028px) {
+@media(min-width:102px) {
 
     #title {
         background-color: #ff4c68;
